@@ -1,16 +1,14 @@
-# desafio_target
+# 🚀 Desafio Desenvolvedor – Target Sistemas
 
-Desafio técnico para processo seletivo da empresa Target Sistemas
+Este repositório contém a solução do **desafio técnico para o processo seletivo da Target Sistemas**, desenvolvido em **Flutter**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Sobre o Projeto
 
-A few resources to get you started if this is your first Flutter project:
+O objetivo desta etapa é avaliar a minha lógica, organização, criatividade e a maneira como você estrutura e desenvolve soluções.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Splash](assets/readme/splash.png)
+![Home](assets/readme/home.png)
