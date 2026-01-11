@@ -17,6 +17,11 @@ O APK da aplicação está disponível diretamente neste repositório para facil
 > **Observação:**  
 > Para instalar o APK, é necessário permitir a instalação de apps de fontes desconhecidas no dispositivo Android.
 
+## 🎥 Vídeo de Apresentação
+
+Neste vídeo, apresento o projeto e explico rapidamente as soluções das perguntas propostas no desafio.
+
+👉 [Assista ao vídeo aqui](https://drive.google.com/file/d/1WvpvILdRKpG4wk17qaYEy-h79CskIICb/view?usp=sharing)
 
 ## 📸 Screenshots
 
