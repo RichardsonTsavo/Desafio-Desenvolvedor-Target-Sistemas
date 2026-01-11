@@ -8,6 +8,16 @@ Este repositório contém a solução do **desafio técnico para o processo sele
 
 O objetivo desta etapa é avaliar a minha lógica, organização, criatividade e a maneira como você estrutura e desenvolve soluções.
 
+## 📥 Download do APK
+
+O APK da aplicação está disponível diretamente neste repositório para facilitar a instalação e testes.
+
+👉 [Clique aqui para baixar o APK](releases/desafio-target-sistemas.apk)
+
+> **Observação:**  
+> Para instalar o APK, é necessário permitir a instalação de apps de fontes desconhecidas no dispositivo Android.
+
+
 ## 📸 Screenshots
 
 <p align="center">
