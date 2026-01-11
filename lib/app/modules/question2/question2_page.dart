@@ -71,7 +71,7 @@ class Question2PageState extends State<Question2Page> {
                         "A sequencia segue somando dos dois valores anteriores então 5 + 8 = 13",
                   ),
                   card(
-                    question: 'e) 2,10, 12, 16, 17, 18, 19,',
+                    question: 'f) 2,10, 12, 16, 17, 18, 19,',
                     answare: '20',
                     explanation:
                         "Essa é uma pegadinha, o inicio mostra um padrão mas depois do 16 fica em sequencia então a resposta mais logica seria 20",

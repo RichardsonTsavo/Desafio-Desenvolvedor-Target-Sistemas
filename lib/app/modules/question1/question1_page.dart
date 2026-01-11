@@ -39,7 +39,8 @@ class Question1PageState extends State<Question1Page> {
                     Card(
                       child: ListTile(
                         title: Text(
-                          "1) Observe o trecho de código:",
+                          "1) Observe o trecho de código:\n"
+                          "Ao final do processamento, qual será o valor da variável SOMA? ",
                           style: TextStyle(
                             fontSize: constraints.maxWidth * 0.06,
                             fontWeight: FontWeight.bold,
