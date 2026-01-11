@@ -10,5 +10,7 @@ O objetivo desta etapa é avaliar a minha lógica, organização, criatividade e
 
 ## 📸 Screenshots
 
-![Splash](assets/readme/splash.png)
-![Home](assets/readme/home.png)
+<p align="center">
+  <img src="assets/readme/splash.png" width="250"/>
+  <img src="assets/readme/home.png" width="250"/>
+</p>
