@@ -6,7 +6,7 @@ Este repositório contém a solução do **desafio técnico para o processo sele
 
 ## 📌 Sobre o Projeto
 
-O objetivo desta etapa é avaliar a minha lógica, organização, criatividade e a maneira como você estrutura e desenvolve soluções.
+O objetivo desta etapa é avaliar a minha lógica, organização, criatividade e a maneira como estruturo e desenvolvo soluções.
 
 ## 📥 Download do APK
 
